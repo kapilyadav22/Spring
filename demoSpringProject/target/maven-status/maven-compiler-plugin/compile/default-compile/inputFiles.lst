@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 /Users/kapilyadav/Downloads/Spring-master/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Desktop.java
 /Users/kapilyadav/Downloads/Spring-master/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Computer.java
 /Users/kapilyadav/Downloads/Spring-master/demoSpringProject/src/main/java/com/kapil/demoSpringProject/App.java
 /Users/kapilyadav/Downloads/Spring-master/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Laptop.java
 /Users/kapilyadav/Downloads/Spring-master/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Kapil.java
+=======
+/Users/kapilyadav/Documents/workspace-spring-tool-suite-4-4.23.0.RELEASE/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Desktop.java
+/Users/kapilyadav/Documents/workspace-spring-tool-suite-4-4.23.0.RELEASE/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Laptop.java
+/Users/kapilyadav/Documents/workspace-spring-tool-suite-4-4.23.0.RELEASE/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Computer.java
+/Users/kapilyadav/Documents/workspace-spring-tool-suite-4-4.23.0.RELEASE/demoSpringProject/src/main/java/com/kapil/demoSpringProject/App.java
+/Users/kapilyadav/Documents/workspace-spring-tool-suite-4-4.23.0.RELEASE/demoSpringProject/src/main/java/com/kapil/demoSpringProject/Kapil.java
+>>>>>>> branch 'master' of git@github.com:kapilyadav22/Spring.git
