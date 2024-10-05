@@ -31,6 +31,7 @@ public class Kapil {
 		this.com = com;
 	}
 
+	//default autowire behaviour is by type, so if you write Computer desktop, it will wired to desktop
 	@Autowired
 	@Qualifier("laptop") //uses laptop as primary bean, even we mark desktop using primary annotation
 	Computer com;
