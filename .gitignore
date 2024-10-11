@@ -1,2 +1,2 @@
 .idea/
-git add .gitignore
+*.DS_Store
